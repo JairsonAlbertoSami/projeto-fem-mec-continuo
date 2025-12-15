@@ -102,4 +102,4 @@ Ao executar os notebooks, os gráficos de performance e comparação são salvos
 
 ### Licença
 
-Este projeto está sob a licença definida no arquivo `LICENSE`.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo `LICENSE` para mais detalhes.
