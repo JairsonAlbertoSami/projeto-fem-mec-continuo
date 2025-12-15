@@ -48,7 +48,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar a
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/PROJETO-FEM-MEC-CONTINUO.git
+git clone https://github.com/JairsonAlbertoSami/projeto-fem-mec-continuo.git
 cd PROJETO-FEM-MEC-CONTINUO
 ```
 
