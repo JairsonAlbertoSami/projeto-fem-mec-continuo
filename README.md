@@ -2,7 +2,7 @@
 
 Este repositório contém o trabalho de conclusão desenvolvido como requisito avaliativo conjunto para as disciplinas de **Elementos Finitos (FEM)** e **Mecânica do Contínuo**.
 
-## 🎯 Objetivo do Trabalho
+## Objetivo do Trabalho
 
 O projeto propõe uma abordagem híbrida para resolver problemas de fluxo em meios porosos. A metodologia consiste em:
 
