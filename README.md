@@ -43,7 +43,15 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar a
 
 - Git instalado
 - Python 3.8+
+- Firedrake instalado
 - Gerenciador de pacotes (pip ou conda)
+## Instalando o Firedrake
+
+Para executar as simulações que utilizam o método de Elementos Finitos (FEM), é necessário instalar o Firedrake, que é uma biblioteca necessária para resolver os problemas computacionais do projeto. Siga as instruções abaixo para instalar o Firedrake:
+
+Opção 1: Instalar Firedrake com o instalador oficial
+
+curl -sSL https://www.firedrakeproject.org/download | bash
 
 ### 1. Clonar o Repositório
 
