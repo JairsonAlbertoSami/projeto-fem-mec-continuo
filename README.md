@@ -65,8 +65,6 @@ conda create -n deeponet_env python=3.8
 # 2. Ativar o ambiente
 conda activate deeponet_env
 
-# 3. Instalar dependências
-pip install -r requirements.txt
 ```
 
 **Opção B: venv (padrão do Python)**
