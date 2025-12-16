@@ -101,8 +101,8 @@ jupyter notebook
 
 No navegador, acesse a pasta `notebooks/` e execute na sequência sugerida:
 
-1. `deepONet.ipynb`: treinar o modelo ou carregar pesos pré-treinados e avaliar a rede.
-2. `FEM_upscaling.ipynb`: comparar os resultados da rede com o método tradicional de Elementos Finitos (FEM).
+1. `deepONet.ipynb`: carregar dados para  treinar o modelo  e avaliar a rede.
+2. `FEM_upscaling.ipynb`: resolvero método tradicional de Elementos Finitos (FEM) e gera dados para treinar modelo.
 
 ### Resultados Esperados
 
