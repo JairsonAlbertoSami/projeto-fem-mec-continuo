@@ -28,11 +28,11 @@ PROJETO-FEM-MEC-CONTINUO/
 			evolucao_mse_treino_validacao.png
 			histograma_residuos_deeponet.png
 			regressao_predito_vs_real_Kxx_Kyy.png
-	src/
+	relatorio_pdf/
+				Quik_notes_jairson_Alberto_Sami.pdf
 		.gitignore
 		LICENSE
 		README.md
-	requirements.txt
 ```
 
 ## Como Reproduzir os Resultados
